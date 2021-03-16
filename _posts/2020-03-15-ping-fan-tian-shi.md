@@ -2,15 +2,15 @@
 title:  "平凡天使"
 subtitle: "阿余的陪伴日记"
 author: "强棒少女"
-avatar: "assets/images/authors/拿棒球棒.jpg"
-image: "assets/images/集体照.png"
+avatar: "assets/images/authors/画图片.png"
+image: "assets/images拿棒球棒.jpg"
 ---
   
 ## 来瞧瞧强棒少女的训练吧🏏   
 
 她是队员中的大姐姐，是女队摩擦时的粘合剂，更是加深女生感情的加温器，大家都爱围着她转。  
 
-![拿棒球.JPG](../assets/images/拿棒球.JPG)  
+![集体照]({{ site.baseurl }}/assets/images/集体照.png)
 
 * 训练计划  
 >
@@ -28,13 +28,13 @@ image: "assets/images/集体照.png"
 
 ## 走进内心(✿◕‿◕✿)  
 
-* 阿余会在闲暇时去倾听自己喜欢的音乐， 喜欢听邓紫棋的歌曲🎧 [平凡天使]（https://music.163.com/#/outchain/2/1805155516/）    
+* 阿余会在闲暇时去倾听自己喜欢的音乐， 喜欢听邓紫棋的歌曲🎧     
 >   
     希望邓紫棋的音乐能够不断给阿余温暖与力量，陪伴着她的强棒之旅(✿◠‿◠)  
     
 * 有时间时，阿余喜欢在自习室阅读名著，会和姐妹们探讨查理九世里的故事,但夜里想像个中情节时会被吓到.༼ つ ◕_◕ ༽つ  
 
-![学习照片.png](../assets/images/学习照片.png)  
+![学习照片]({{ site.baseurl }}/assets/images/学习照片.png)
 >  
     大家都看什么故事呢？有没有被吓到的经历？希望可以和我们的阿余分享自己的故事丫.(★ ω ★)  
     
